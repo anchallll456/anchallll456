@@ -57,9 +57,6 @@
 - **Kalinga Institute of Industrial Technology, Bhubaneswar**  
 	B.Tech, Computer Science Engineering (2023–2027)  
 	CGPA: 9.09
-- **X (CBSE) | Notre Dame School, Gumla:** 94.6% (2021)
-- **XII (CBSE) | DAV Public School, Gumla:** 84.8% (2023)
-
 ---
 
 ## 🚀 Projects
