@@ -20,7 +20,7 @@
 - 🌱 **Learning:** Machine Learning, Data Visualization, Cloud
 - ✨ **Skills:** Problem Solving, Team Collaboration, Communication
 - 📧 **Contact:** kumarianchal.1970@gmail.com | +91-9931591586
-- 🌐 **LinkedIn:** [Anchal Kumari](https://www.linkedin.com/in/anchal-kumari-9aa082286)
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/anchal-kumari-9aa082286
 
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=anchallll456&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=eye" alt="profile views" />
