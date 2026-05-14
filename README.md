@@ -6,6 +6,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🚀+AI/ML+%26+Full-Stack+Developer+🚀;🎓+CSE+Student+@+KIIT+University+🎓;🏆+Hackathon+Enthusiast+%7C+Project+Builder+🏆;✨+Let%27s+Innovate+Together!+✨" alt="Typing SVG" />
 </div>
 
+
 ---
 
 ## 🎭 About Me
@@ -26,23 +27,6 @@
 	<img src="https://img.shields.io/github/followers/anchallll456?label=Followers&style=for-the-badge&color=orange&logo=github" alt="followers" />
 	<img src="https://img.shields.io/badge/KIIT%20University-CSE%20'27-brightgreen?style=for-the-badge&logo=graduation-cap" alt="education" />
 	<img src="https://img.shields.io/badge/CGPA-9.09-blue?style=for-the-badge&logo=academic" alt="cgpa" />
-</div>
-
----
-
-## 😄 Fun Facts About Me
-
-| 🎭 **Personality** | 🎯 **Fun Facts** |
-|:---|:---|
-| 🍕 **Pizza Debugger** | I debug code better with pizza nearby 🐛➡️✅ |
-| 🌙 **Night Owl Coder** | My best algorithms come at 2 AM 🦉💻 |
-| 🎵 **Code Beats** | Lo-fi hip hop = instant productivity boost 🎧📈 |
-| 📚 **Bookworm** | AI papers > bedtime stories 📖🤖 |
-| 🎮 **Gaming Geek** | Strategy games = training for system design 🎯🧠 |
-| ☕ **Coffee Alchemist** | Converting caffeine into code since 2023 ⚗️💻 |
-
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🎭+Life+is+too+short+for+boring+code!;🍕+Powered+by+pizza+and+curiosity;🌟+Making+AI+less+scary%2C+one+joke+at+a+time!" alt="Fun Facts" />
 </div>
 
 ---
