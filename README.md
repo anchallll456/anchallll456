@@ -81,7 +81,6 @@
 - Presented Mindmate at ICDDCIT 2025, KIIT University
 - 1st prize for Mindmate at TechFrontier, KIDP2DS Society, KIIT (2025)
 - Igniting India’s Electric Revolution Maruti ePulse (2025)
-- Presented Fesal Seva Project at ICDDCIT 2026, KIIT University
 - Contributing artist for Youth Red Cross Society, KIIT (Since 2024)
 
 ---
